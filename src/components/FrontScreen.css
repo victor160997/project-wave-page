@@ -1,0 +1,51 @@
+/* .screen-body {
+  display: flex;
+  background-image: url('frontScreen.jpeg');
+  background-size: 200vh;
+  height: 50vh;
+  width: 100vw;
+} */
+
+@media screen and (min-width:320px) and (max-width: 800px) {
+  .screen-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+  }
+  
+  .nocut {
+    width: 100vw;
+    min-width: 1200px;
+    height: 400px;
+    box-shadow: 0 5px 15px black;
+  }
+
+  .cut {
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .screen-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+  }
+  
+  .cut {
+    width: 100vw;
+    min-width: 1200px;
+    height: 400px;
+    box-shadow: 0 5px 15px black;
+  }
+
+  .nocut {
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+}
