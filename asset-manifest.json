@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/wave-page/static/css/main.6ec7c50d.chunk.css",
-    "main.js": "/wave-page/static/js/main.25b4b784.chunk.js",
-    "main.js.map": "/wave-page/static/js/main.25b4b784.chunk.js.map",
-    "runtime-main.js": "/wave-page/static/js/runtime-main.cba5c531.js",
-    "runtime-main.js.map": "/wave-page/static/js/runtime-main.cba5c531.js.map",
-    "static/js/2.dee52b8d.chunk.js": "/wave-page/static/js/2.dee52b8d.chunk.js",
-    "static/js/2.dee52b8d.chunk.js.map": "/wave-page/static/js/2.dee52b8d.chunk.js.map",
-    "static/js/3.9249ea9a.chunk.js": "/wave-page/static/js/3.9249ea9a.chunk.js",
-    "static/js/3.9249ea9a.chunk.js.map": "/wave-page/static/js/3.9249ea9a.chunk.js.map",
+    "main.css": "/wave-page/static/css/main.507de2f4.chunk.css",
+    "main.js": "/wave-page/static/js/main.f50002de.chunk.js",
+    "main.js.map": "/wave-page/static/js/main.f50002de.chunk.js.map",
+    "runtime-main.js": "/wave-page/static/js/runtime-main.c7204eb8.js",
+    "runtime-main.js.map": "/wave-page/static/js/runtime-main.c7204eb8.js.map",
+    "static/js/2.407b0937.chunk.js": "/wave-page/static/js/2.407b0937.chunk.js",
+    "static/js/2.407b0937.chunk.js.map": "/wave-page/static/js/2.407b0937.chunk.js.map",
+    "static/js/3.6bb70275.chunk.js": "/wave-page/static/js/3.6bb70275.chunk.js",
+    "static/js/3.6bb70275.chunk.js.map": "/wave-page/static/js/3.6bb70275.chunk.js.map",
     "index.html": "/wave-page/index.html",
-    "static/css/main.6ec7c50d.chunk.css.map": "/wave-page/static/css/main.6ec7c50d.chunk.css.map",
-    "static/js/2.dee52b8d.chunk.js.LICENSE.txt": "/wave-page/static/js/2.dee52b8d.chunk.js.LICENSE.txt",
+    "static/css/main.507de2f4.chunk.css.map": "/wave-page/static/css/main.507de2f4.chunk.css.map",
+    "static/js/2.407b0937.chunk.js.LICENSE.txt": "/wave-page/static/js/2.407b0937.chunk.js.LICENSE.txt",
     "static/media/LogoH2.1f9511f7.png": "/wave-page/static/media/LogoH2.1f9511f7.png",
     "static/media/LogoHeader.9ddbc5aa.png": "/wave-page/static/media/LogoHeader.9ddbc5aa.png",
-    "static/media/FrontScreen.css": "/wave-page/static/media/frontCity2.7cd0b7e6.png"
+    "static/media/FrontScreen.css": "/wave-page/static/media/frontCity2.7cd0b7e6.png",
+    "static/media/waveVideo.284dd56f.mp4": "/wave-page/static/media/waveVideo.284dd56f.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.cba5c531.js",
-    "static/js/2.dee52b8d.chunk.js",
-    "static/css/main.6ec7c50d.chunk.css",
-    "static/js/main.25b4b784.chunk.js"
+    "static/js/runtime-main.c7204eb8.js",
+    "static/js/2.407b0937.chunk.js",
+    "static/css/main.507de2f4.chunk.css",
+    "static/js/main.f50002de.chunk.js"
   ]
 }
