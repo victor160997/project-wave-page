@@ -1,0 +1,61 @@
+@media screen and (min-width:320px) and (max-width:800px) {
+  .body-presentation {
+    display: flex;
+    flex-direction: column;
+    padding: 5vw;
+    margin: 5vh 5vw;
+    height: max-content;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+    color: white;
+  }
+  
+  .body-presentation video {
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 2vw;
+  }
+
+  .text-presentation {
+    margin: 2vw;
+  }
+  
+  .body-presentation h1 {
+    color: rgb(0, 179, 211);;
+      text-shadow: 2px 0 5px rgb(255, 255, 255, 0.1) , -2px 0 5px rgb(255, 255, 255, 0.1) , 0 2px 5px rgb(255, 255, 255, 0.1) , 0
+        -2px 5px rgb(255, 255, 255, 0.1) , 1px 1px 5px rgb(255, 255, 255, 0.1) , -1px -1px 5px rgb(255, 255, 255, 0.1) , 1px -1px 5px rgb(255, 255, 255, 0.1) , -1px
+        1px 5px rgb(255, 255, 255, 0.1);
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .body-presentation {
+    display: flex;
+    padding: 1vw;
+    margin: 5vh 5vw;
+    height: max-content;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+    color: white;
+    overflow: auto;
+  }
+  
+  .body-presentation video {
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 50vw;
+    margin: 2vw;
+  }
+  
+  .text-presentation {
+    width: 40vw;
+    padding: 2vw;
+  }
+
+  .body-presentation h1 {
+    color: rgb(0, 179, 211);;
+      text-shadow: 2px 0 5px rgb(255, 255, 255, 0.1) , -2px 0 5px rgb(255, 255, 255, 0.1) , 0 2px 5px rgb(255, 255, 255, 0.1) , 0
+        -2px 5px rgb(255, 255, 255, 0.1) , 1px 1px 5px rgb(255, 255, 255, 0.1) , -1px -1px 5px rgb(255, 255, 255, 0.1) , 1px -1px 5px rgb(255, 255, 255, 0.1) , -1px
+        1px 5px rgb(255, 255, 255, 0.1);
+  }
+}
