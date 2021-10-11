@@ -11,12 +11,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: auto;
   }
   
   .nocut {
     width: 100vw;
-    min-width: 1200px;
+    min-width: 1000px;
     height: 400px;
     box-shadow: 0 5px 15px black;
   }
@@ -33,7 +32,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: auto;
   }
   
   .cut {
